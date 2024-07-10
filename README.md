@@ -1,3 +1,7 @@
+# *THIS IS AN ARCHIVE ~ REPO HAS BEEN MOVED TO https://github.com/jessekrubin/ry*
+
+___
+
 # ry
 
 [![PyPI](https://img.shields.io/pypi/v/ry?style=flat-square&cacheSeconds=600)](https://pypi.org/project/ry/)
